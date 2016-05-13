@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./menandreaexpapyr00menauoft_0237.png"; bbox 0 0 1980 3168; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 787 1355 1174 1454">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 787 1355 1174 1454">
+     <span class='ocr_line' id='line_1_1' title="bbox 787 1355 1174 1454; baseline -0.003 -22"><span class='ocrx_word' id='word_1_1' title='bbox 787 1355 1174 1454; x_wconf 74' lang='grc' dir='ltr'>ΚοΛΑΞ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 762 2447 1109 2498">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 762 2447 1109 2498">
+     <span class='ocr_line' id='line_1_2' title="bbox 762 2447 1109 2498; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 762 2447 1109 2498; x_wconf 81' lang='lat' dir='ltr'>Personae:</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 377 2577 1362 2633">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 377 2577 1362 2633">
+     <span class='ocr_line' id='line_1_3' title="bbox 377 2577 1362 2633; baseline -0.001 -13"><span class='ocrx_word' id='word_1_3' title='bbox 377 2577 509 2620; x_wconf 81' lang='lat' dir='ltr'>Doris</span> <span class='ocrx_word' id='word_1_4' title='bbox 543 2591 599 2620; x_wconf 84' lang='lat' dir='ltr'>an</span> <span class='ocrx_word' id='word_1_5' title='bbox 606 2577 714 2620; x_wconf 80' lang='lat' dir='ltr'>oilla</span> <span class='ocrx_word' id='word_1_6' title='bbox 1055 2577 1180 2633; x_wconf 86' lang='lat' dir='ltr'>(Bias</span> <span class='ocrx_word' id='word_1_7' title='bbox 1212 2577 1362 2630; x_wconf 47' lang='lat' dir='ltr'>miles)</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 378 2650 1594 2707">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 378 2650 1594 2707">
+     <span class='ocr_line' id='line_1_4' title="bbox 378 2650 1594 2707; baseline -0.002 -14"><span class='ocrx_word' id='word_1_8' title='bbox 378 2651 569 2693; x_wconf 81' lang='lat' dir='ltr'>Phidias</span> <span class='ocrx_word' id='word_1_9' title='bbox 602 2650 874 2694; x_wconf 82' lang='lat' dir='ltr'>adulescens</span> <span class='ocrx_word' id='word_1_10' title='bbox 1061 2650 1312 2707; x_wconf 74' lang='lat' dir='ltr'>(St-ruthias</span> <span class='ocrx_word' id='word_1_11' title='bbox 1344 2650 1594 2705; x_wconf 72' lang='lat' dir='ltr'>parasitus)</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 380 2723 1443 2854">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 380 2723 1443 2854">
+     <span class='ocr_line' id='line_1_5' title="bbox 380 2723 1443 2780; baseline -0.002 -13"><span class='ocrx_word' id='word_1_12' title='bbox 380 2724 544 2767; x_wconf 83' lang='lat' dir='ltr'>Servus</span> <span class='ocrx_word' id='word_1_13' title='bbox 1066 2723 1238 2780; x_wconf 82' lang='lat' dir='ltr'>(Sosias</span> <span class='ocrx_word' id='word_1_14' title='bbox 1272 2727 1443 2779; x_wconf 75' lang='lat' dir='ltr'>servus)</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 381 2797 1244 2854; baseline 0.001 -14"><span class='ocrx_word' id='word_1_15' title='bbox 381 2798 504 2841; x_wconf 86' lang='lat' dir='ltr'>Leno</span> <span class='ocrx_word' id='word_1_16' title='bbox 1064 2797 1244 2854; x_wconf 83' lang='lat' dir='ltr'>(Coeus)</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
